@@ -1,0 +1,4 @@
+pytest
+pyroute2
+cffi
+git+https://github.com/acooks/pymfcd.git
