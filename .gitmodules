@@ -1,0 +1,3 @@
+[submodule "mcast_lab/src/pymfcd_vendored"]
+	path = mcast_lab/src/pymfcd_vendored
+	url = https://github.com/acooks/pymfcd.git
